@@ -1,12 +1,58 @@
-# Getting Started with Create React App
+# Movie Discovery Website | With API Integration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Designed and built a React-based web application utilizing the OMDb API, allowing users to search for movies by title, explore random selections across genres, and view details such as release year and movie type. The project achieved a 35% improvement in user interaction.
 
-## Available Scripts
+## Hosted Link 
 
-In the project directory, you can run:
+You can access the hosted version of the website [Movie Discovery Website](https://nithinroyale.github.io/Movie-Discovery-Website).
 
-### `npm start`
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
+
+
+## Introduction
+
+The Movie Discovery Website is a dynamic and engaging web application that enables users to discover movies effortlessly. With the power of the OMDb API, users can search for their favorite movies, explore random selections across various genres, and view detailed information such as release year and movie type.
+
+## Features
+
+- **Search Movies by Title:** Users can search for movies by entering the title in the search bar.
+- **Random Movie Selection:** Users can explore random movie selections across different genres on the homepage.
+- **Movie Details:** Users can view detailed information about movies, including the release year and movie type.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- OMDb API
+
+## Setup
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/NithinRoyale/Movie-Discovery-Website.git
+   ```
+2.Install the dependencies:
+
+   ```
+    npm install
+   ```
+
+3.Start the development server:
+  ```
+    npm start
+  ```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -39,32 +85,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. **Open your browser** and navigate to `http://localhost:3000`.
 
-### Code Splitting
+2. **Search for Movies:** Use the search bar to enter the title of the movie you want to find. The application will display search results based on your query.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. **Explore Random Movies:** On the homepage, explore random movie selections across various genres. This feature helps users discover new movies that they might enjoy.
 
-### Analyzing the Bundle Size
+4. **View Movie Details:** Click on any movie card to view detailed information about the movie, including the release year and movie type.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contributors
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Nithin](https://github.com/NithinRoyale/)
